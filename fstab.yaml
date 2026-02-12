@@ -1,5 +1,6 @@
-mountpoints:
-  /:
-    url: https://author-p133911-e1313536.adobeaemcloud.com/bin/franklin.delivery/adobe-rnd/aem-boilerplate-forms-ws/main
-    type: "markup"
-    suffix: ".html"
+mountpoints: 
+/: 
+url: https://author-p96753-e1733420.adobeaemcloud.com/bin/franklin.delivery/tejaswiniindalkar24/workshop-boilerplate/main 
+type: "markup" 
+suffix: ".html"
+ 
